@@ -2,12 +2,13 @@
   <body>
     <h2 align='left'><b>Sushrut Kuchik</b></h2>
     <p>
-      <img src="https://github.com/ksushrut/ksushrut/blob/main/Assets/AREmoji_20220914_210830_370.gif?raw=true" width="150" height="150" align="right">
+      <img src="https://github.com/ksushrut/ksushrut/blob/main/Assets/AREmoji_20220914_204113.jpg?raw=true" width="200" height="200" align="right">
       Hey there, I am Sushrut from 🇮🇳.<br>
       I am a Computer Engineer with predilection for coding🧑🏻‍💻 and a loyal Gryffindor🦁😉<br>
       I am passionate about learning and I strive for creativity🤔<br>
       <section><h5>💡Currently working on: </h5></section>
     </p>
+  <br><br>
     <p><h2 align='center'>🏅Badges</h2>
       <section align="center">
         <img src="https://github.com/ksushrut/ksushrut/blob/main/Assets/Cognitive_Class_-_What_is_Data_Science.png?raw=true" height="150" width="150" align="center">
