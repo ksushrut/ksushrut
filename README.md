@@ -1,6 +1,8 @@
 <html>
   <body>
-    <h1 align='left'>Sushrut Arun Kuchik</h1><hr>
+    <h2 align='left'><b>Sushrut Kuchik</b></h2>
+<p>Hey there, I am Sushrut from India🇮🇳.<br>
+I am a Computer with predilection for coding🧑🏻‍💻 and a loyal Gryffindor🦁😉
     <p> 
         <h3>Connect with me on: </h3> 
         <a href="https://www.linkedin.com/in/sushrutkuchik/" target="_blank">
