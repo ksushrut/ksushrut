@@ -1,8 +1,12 @@
 <html>
   <body>
     <h2 align='left'><b>Sushrut Kuchik</b></h2>
-<p>Hey there, I am Sushrut from India🇮🇳.<br>
-I am a Computer with predilection for coding🧑🏻‍💻 and a loyal Gryffindor🦁😉
+    <p>
+      Hey there, I am Sushrut from 🇮🇳.<br>
+      I am a Computer Engineer with predilection for coding🧑🏻‍💻 and a loyal Gryffindor🦁😉<br>
+      I am passionate about learning and I strive for creativity🤔<br>
+      <section><h5>💡Currently working on: </h5></section>
+    </p>
     <p> 
         <h3>Connect with me on: </h3> 
         <a href="https://www.linkedin.com/in/sushrutkuchik/" target="_blank">
