@@ -7,6 +7,14 @@
       I am passionate about learning and I strive for creativity🤔<br>
       <section><h5>💡Currently working on: </h5></section>
     </p>
+    <p><h2 align='center'>🏅Badges</h2>
+      <section align="center">
+        <img src="https://github.com/ksushrut/ksushrut/blob/main/Assets/Cognitive_Class_-_What_is_Data_Science.png?raw=true" height="75" width="75" align="center">
+        <img src="https://github.com/ksushrut/ksushrut/blob/main/Assets/Python_for_Data_Sci_and_AI_Foundational.png?raw=true" height="75" width="75" align="center">
+        <img src="https://github.com/ksushrut/ksushrut/blob/main/Assets/Tools_for_Data_Science_Foundational.png?raw=true" height="75" width="75" align="center">
+        <img src="https://github.com/ksushrut/ksushrut/blob/main/Assets/Chatbot_Building_Essentials_Foundational.png?raw=true" height="75" width="75" align="center">
+      </section>
+    </p>
     <p> 
         <h3>Connect with me on: </h3> 
         <a href="https://www.linkedin.com/in/sushrutkuchik/" target="_blank">
