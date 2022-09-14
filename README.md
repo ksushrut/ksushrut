@@ -1,14 +1,13 @@
 <html>
   <body>
     <h2 align='left'><b>Sushrut Kuchik</b></h2>
-    <p>
-      <img src="https://github.com/ksushrut/ksushrut/blob/main/Assets/AREmoji_20220914_204113.jpg?raw=true" width="200" height="200" align="right">
+    <p align="justify">
+      <img src="https://github.com/ksushrut/ksushrut/blob/main/Assets/AREmoji_20220914_204113.jpg?raw=true" width="200" height="190" align="right">
       Hey there, I am Sushrut from 🇮🇳.<br>
-      I am a Computer Engineer with predilection for coding🧑🏻‍💻 and a loyal Gryffindor🦁😉<br>
-      I am passionate about learning and I strive for creativity🤔<br>
-      <section><h5>💡Currently working on: </h5></section>
+      I am a recent Computer Engineering graduate from Mumbai University with predilection for coding. I am passionate about learning new stuff and strive for perfection. Adept in programming, and I aim to solve real life issues faced by the people.
+      <!-- <h5>💡Currently working on: </h5> -->
     </p>
-  <br><br>
+    <br><br>
     <p><h3 align='center'>🏅Badges🏅</h3>
       <section align="center">
         <img src="https://github.com/ksushrut/ksushrut/blob/main/Assets/Cognitive_Class_-_What_is_Data_Science.png?raw=true" height="125" width="125" align="center">
