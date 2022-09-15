@@ -4,7 +4,7 @@
     <p align="justify">
       <img src="https://github.com/ksushrut/ksushrut/blob/main/Assets/AREmoji_20220914_204113.jpg?raw=true" width="200" height="190" align="right">
       Hey there, I am Sushrut from 🇮🇳.<br>
-      I am a recent Computer Engineering graduate from Mumbai University with predilection for coding. I am passionate about learning new stuff and strive for perfection. Adept in programming, and I aim to solve real life issues faced by the people.
+      I am a recent Computer Engineering graduate from Mumbai University with predilection for coding. I am passionate about learning new stuff and strive for perfection.
       <!-- <h5>💡Currently working on: </h5> -->
     </p>
     <br><br>
