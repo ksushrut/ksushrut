@@ -10,10 +10,10 @@
     <br><br>
     <p><h3 align='center'>🏅Badges🏅</h3>
       <section align="center">
-        <img src="https://github.com/ksushrut/ksushrut/blob/main/Assets/Cognitive_Class_-_What_is_Data_Science.png?raw=true" height="125" width="125" align="center">
-        <img src="https://github.com/ksushrut/ksushrut/blob/main/Assets/Python_for_Data_Sci_and_AI_Foundational.png?raw=true" height="125" width="125" align="center">
-        <img src="https://github.com/ksushrut/ksushrut/blob/main/Assets/Tools_for_Data_Science_Foundational.png?raw=true" height="125" width="125" align="center">
-        <img src="https://github.com/ksushrut/ksushrut/blob/main/Assets/Chatbot_Building_Essentials_Foundational.png?raw=true" height="125" width="125" align="center">
+        <img src="https://github.com/ksushrut/ksushrut/blob/main/Assets/Cognitive_Class_-_What_is_Data_Science.png?raw=true" height="100" width="100" align="center">
+        <img src="https://github.com/ksushrut/ksushrut/blob/main/Assets/Python_for_Data_Sci_and_AI_Foundational.png?raw=true" height="100" width="100" align="center">
+        <img src="https://github.com/ksushrut/ksushrut/blob/main/Assets/Tools_for_Data_Science_Foundational.png?raw=true" height="100" width="100" align="center">
+        <img src="https://github.com/ksushrut/ksushrut/blob/main/Assets/Chatbot_Building_Essentials_Foundational.png?raw=true" height="100" width="100" align="center">
       </section>
     </p>
     <p> 
