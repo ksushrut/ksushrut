@@ -10,8 +10,9 @@
     <br><br>
     <p>
       <h3 align='center'>🖥️My Technical Stack🖥️</h3>
+        c, java, c++
     </p>
-    <p><h3 align='center'>🏅Badges🏅</h3>
+    <p align='center'><h3 align='center'>🏅Badges🏅</h3>
       <section align="center">
         <a href="https://www.credly.com/badges/9f3233a4-9df4-4cd3-9a20-136634631840/public_url">  
           <img src="https://github.com/ksushrut/ksushrut/blob/main/Assets/Cognitive_Class_-_What_is_Data_Science.png?raw=true" height="110" width="110" align="center">
