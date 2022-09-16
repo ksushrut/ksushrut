@@ -10,7 +10,13 @@
     <br><br>
     <p>
       <h3 align='center'>🖥️My Technical Stack🖥️</h3>
-        c, java, c++
+        <ul>
+          <li>Programming Languages: Python, C, Java, C++</li>
+          <li>Web Technologies: HTML, CSS, JavaScript, PHP</li>
+          <li>Databases and Data Management: MySQL, NoSQL</li>
+          <li>Tools and Technologies: Flask, Microsoft Suite</li>
+          <li>Domains: Machine Learning, Deep Learning, Data Science, Big Data, Natural Language Processing, Statistics</li>
+        </ul>
     </p>
     <p align='center'><h3 align='center'>🏅Badges🏅</h3>
       <section align="center">
