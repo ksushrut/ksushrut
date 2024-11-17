@@ -5,22 +5,6 @@
       <img src="https://github.com/ksushrut/ksushrut/blob/main/Assets/AREmoji_20220914_204113-removebg-preview.png?raw=true" width="350" height="350" align="right">
       Hey there, I am Sushrut from 🇮🇳.<br>
       I am a post graduate student at Macquarie University with predilection for coding. Currently studying Information Technology with specialisastion in AI. I am passionate about learning new stuff and strive for perfection.
-       <h3>💡Currently studying: </h3>
-      <ul>
-        <li>Fundamentals of Computer Science</li>
-        <li>Database Systems</li>
-        <li>Data Science</li>
-        <li>Introductory Sciences</li>
-      </ul>
-    </p>
-    <br><br>
-    <p><h3 align='center'>🏅Badges🏅</h3>
-      <section align="center">
-        <img src="https://github.com/ksushrut/ksushrut/blob/main/Assets/Cognitive_Class_-_What_is_Data_Science.png?raw=true" height="110" width="110" align="center">
-        <img src="https://github.com/ksushrut/ksushrut/blob/main/Assets/Python_for_Data_Sci_and_AI_Foundational.png?raw=true" height="110" width="110" align="center">
-        <img src="https://github.com/ksushrut/ksushrut/blob/main/Assets/Tools_for_Data_Science_Foundational.png?raw=true" height="110" width="110" align="center">
-        <img src="https://github.com/ksushrut/ksushrut/blob/main/Assets/Chatbot_Building_Essentials_Foundational.png?raw=true" height="110" width="110" align="center">
-      </section>
     </p>
     <p> 
         <h3>Connect with me on: </h3> 
